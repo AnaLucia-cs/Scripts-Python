@@ -1,0 +1,4 @@
+Titulo,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Adobe,adobe.com,2013-12-04T00:00:00Z,"Email addresses, Password hints, Passwords, Usernames",True,False
+Gawker,gawker.com,2013-12-04T00:00:00Z,"Email addresses, Passwords, Usernames",True,False
+NextGenUpdate,nextgenupdate.com,2015-06-05T04:12:29Z,"Email addresses, IP addresses, Passwords, Usernames",True,False
